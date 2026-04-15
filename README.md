@@ -130,12 +130,12 @@ python ddos_detection_project.py
 
 | Enrollment No. | Name                        |
 | -------------- | -----------------           |
-| 24BCY10198     | MEDHAVI DHEER SRIVASTAVA    |
-| 24BCY10216     |  ADARSH KUMAR               |
-| 24BCY10254     | SHATAKSHI AKHILESH THAKUR   |
-| 24BCY10257     | HIRAL JAGETIYA              |
-| 24BCY10292     | MANAV VIJAY YADAV           |
-| 24BCY10303     | SIDHANT KUMAR               |
+| 24BSA10100     | MEDHAVI DHEER SRIVASTAVA    |
+| 24BSA10116     |  ADARSH KUMAR               |
+| 24BSA10134     | SHATAKSHI AKHILESH THAKUR   |
+| 24BSA10148     | HIRAL JAGETIYA              |
+| 24BSA10171     | MANAV VIJAY YADAV           |
+| 24BSA10172     | SIDHANT KUMAR               |
 
 ---
 
